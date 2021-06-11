@@ -10,6 +10,12 @@ The basic requirement for using the files are listed in `requirements.txt`.
 
 The code for training the BRNet model  are available in the [`brnet` folder](./brnet).
 
+## Running the code
+
+You can simply run the code as follows:
+
+python brnet.py
+
 ## Developer Team
 
 The code was developed by Vishu Gupta from the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University.
