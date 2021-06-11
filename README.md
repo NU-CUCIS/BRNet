@@ -14,7 +14,7 @@ The code for training the BRNet model  are available in the [`brnet` folder](./b
 
 You can simply run the code as follows:
 
-python brnet.py
+`python brnet.py`
 
 ## Developer Team
 
