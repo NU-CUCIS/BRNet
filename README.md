@@ -24,7 +24,7 @@ Here is a brief description of the folder content:
 
 Run the command below (after defining the data path, where the dataset contains the compound/formula in one of the columns named "pretty_comp" in the column to perform featurization), which uses BRNet architecture to perform model training:
 
-`python BRNet.py -es 100 -sm "model_elemnet_stability" -prop "property"`
+`python BRNet.py -es 100 -sm "model_proerty" -prop "property"`
 
 Where `-es` defines the number of epochs for early stopping, `-sm` defines the name of the saved model, and `-prop` defines the name of the column that is used for target materials property to train the model. Users can also modify the code to take custom features as input by modifying the code.
 
